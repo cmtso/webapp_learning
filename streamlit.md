@@ -29,5 +29,8 @@ Aother crazy feature is that you can run an app script hosted online from your l
 ## Other packages
 - [streamlit-folium](https://github.com/randyzwitch/streamlit-folium/blob/master/examples/streamlit_app.py)
 
+## Deployment
+- [Heroku](https://medium.com/analytics-vidhya/build-and-deploy-your-own-machine-learning-web-application-by-streamlit-and-heroku-d306f2d29474)
+
 ## Comparison of Web App frameworks:
 https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
